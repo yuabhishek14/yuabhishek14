@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tripathy</h1>
 <h3 align="center">I am a DevOps Enginner @Odessa with 2.5 years of experience</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/edc3ab78364175.5ca3009cb66a0.gif">
 
 - 🔭 I’m currently working on **Kubernetes**
 
