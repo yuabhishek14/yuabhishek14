@@ -30,7 +30,7 @@
 <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/a86338a5a139d74a5105fcefd08253f38b7ecba7/hosted_logos/argo.svg" alt="argocd" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/nt/351340/png/sonarqube-logo.png" alt="sonar" width="100" height="40"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/nt/351340/png/sonarqube-logo.png" alt="sonar" width="120" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/maven.svg" alt="maven" width="40" height="40"/> </a>
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" alt="tomcat" width="70" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
