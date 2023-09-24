@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="70" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" rel="noreferrer"> <img src="https://github.com/yuabhishek14/yuabhishek14/assets/43784560/c0006a1b-d878-47c2-be48-0387bbd7fa69" alt="azure-devops" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" rel="noreferrer"> <img src="https://github.com/yuabhishek14/yuabhishek14/assets/43784560/c0006a1b-d878-47c2-be48-0387bbd7fa69" alt="azure-devops" width="50" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" alt="powershell" width="40" height="40"/> </a>
