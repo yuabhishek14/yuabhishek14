@@ -7,7 +7,7 @@ experience_in_years = (current_date - start_date).days / 365
 
 experience_formatted = round(experience_in_years, 1)
 
-readme_file =  "Readme.md"
+readme_file =  "README.md"
 
 start_marker = "<!--experience-start-->"
 end_marker = "<!--experience-end-->"
