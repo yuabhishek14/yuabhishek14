@@ -1,0 +1,32 @@
+name: Update README with Experience
+
+on:
+ schedule:
+   - cron: "0 0 1 * *"
+ workflow_dispatch:
+
+jobs:
+ update-readme:
+   runs-on: ubuntu-latest
+   steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with: 
+          python-version: 3.x
+
+      - name: Install Dependencies
+        run: pip install -r requirment.txt || true
+
+      - name: Update README
+        run: python update_experience.py
+
+      - name: Checkout Repository
+        run: |
+         git config --local user.name "github-actions[bot]"
+         git config --local user.email "github-actions[bot]@users.noreply.github.com" 
+         git add README.md
+         git commit -m "updated experience in README.md"
+         git push
