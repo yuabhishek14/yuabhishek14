@@ -1,14 +1,14 @@
 from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
 # Define the start date of your experience
 start_date = datetime(2022, 6, 1)
 current_date = datetime.now()
 
-# Calculate the experience in years
-experience_in_years = (current_date - start_date).days / 365
+# Calculate the difference in years and months
+difference = relativedelta(current_date, start_date)
 
-# Round to one decimal place
-experience_formatted = round(experience_in_years, 1)
+experience_formatted = print(f"{difference.years}.{difference.months}")
 
 # Path to the README.md file
 readme_file = "README.md"
