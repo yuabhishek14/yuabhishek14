@@ -8,7 +8,7 @@ current_date = datetime.now()
 # Calculate the difference in years and months
 difference = relativedelta(current_date, start_date)
 
-experience_formatted = print(f"{difference.years}.{difference.months}")
+experience_formatted = f"{difference.years}.{difference.months}"
 print(experience_formatted)
 
 # Path to the README.md file
