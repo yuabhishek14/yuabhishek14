@@ -9,6 +9,7 @@ current_date = datetime.now()
 difference = relativedelta(current_date, start_date)
 
 experience_formatted = print(f"{difference.years}.{difference.months}")
+print(experience_formatted)
 
 # Path to the README.md file
 readme_file = "README.md"
